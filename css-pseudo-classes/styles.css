@@ -1,0 +1,18 @@
+button:hover {
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
+
+button:active {
+  background-color: brown;
+}
+
+tr:nth-child(2n+1) {
+  background-color: lightgrey;
+}
+
+tr.black-header {
+  background-color: black;
+  color: white;
+}

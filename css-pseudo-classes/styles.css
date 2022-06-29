@@ -14,5 +14,5 @@ tr:nth-child(2n+1) {
 
 tr.black-header {
   background-color: black;
-  color: white;
+  color: rgb(255 255 255);
 }

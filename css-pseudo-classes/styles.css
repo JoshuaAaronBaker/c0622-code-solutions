@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+button {
+  height: 50px;
+  width: 150px;
+}
+
+button:hover {
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
+
+button:active {
+  background-color: brown;
+}
+
+tbody tr:nth-child(2n+1) {
+  background-color: lightgrey;
+}
+
+tr.black-header {
+  background-color: black;
+  color: rgb(255 255 255);
+}

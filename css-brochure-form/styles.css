@@ -77,5 +77,6 @@ div {
 ::placeholder {
   font-size: 10px;
   font-family: AtlasGrotesk, sans-serif;
+  color: rgb(153 153 153);
   opacity: 0.7;
 }

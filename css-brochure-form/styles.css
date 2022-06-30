@@ -29,9 +29,9 @@ label {
 
 input {
   width: 100%;
-  height: 2rem;
+  height: 2.5rem;
   color: rgb(253 250 250);
-  border: 0.9px solid;
+  border: 0.7px solid;
   border-color: rgb(204 207 207);
   border-radius: 3px;
   padding-left: 0.45rem;
@@ -43,7 +43,7 @@ input {
 
 select {
   width: 100%;
-  height: 2rem;
+  height: 2.5rem;
   background-color: #f3f3f3;
   font-family: "Brandon Grotesque", sans-serif;
   font-size: 10px;
@@ -62,8 +62,10 @@ button {
   background-color: rgb(236 92 87);
   color: white;
   font-family: "Brandon Grotesque", sans-serif;
-  font-size: 8px;
-  padding: 0.3rem 0.9rem;
+  font-size: 10px;
+  font-weight: bold;
+  letter-spacing: -0.2px;
+  padding: 0.5rem 1.5rem;
   border-radius: 16px;
   border: 0;
 }

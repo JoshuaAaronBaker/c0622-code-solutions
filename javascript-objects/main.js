@@ -4,7 +4,7 @@ var student = {
   age: 23
 };
 
-var fullName = student.firstName + student.lastName;
+var fullName = student.firstName + ' ' + student.lastName;
 console.log('value of fullName: ', fullName);
 
 student.livesInIrvine = false;

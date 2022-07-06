@@ -62,7 +62,8 @@ var orderHistory = [
       {
         name: 'The Art of Sql',
         author: 'Faroult, Stephane',
-        returnWindow: 'Return window closed on 08/04/2020'
+        returnWindow: 'Return window closed on 08/04/2020',
+        price: '$33.99'
 
       }
     ]

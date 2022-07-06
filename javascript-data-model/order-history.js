@@ -6,14 +6,13 @@ var orderHistory = [
     shipTo: 'JS Masher',
     delivered: '08/08/2020',
     received: null,
-    order: {
-      item1: {
-        name: 'JavaScript for impatient programmers',
-        author: 'Rauschmayer, Dr. Axel',
-        returnWindow: '09/07/2020',
-        price: '$31.55'
-      }
+    order: [{
+      name: 'JavaScript for impatient programmers',
+      author: 'Rauschmayer, Dr. Axel',
+      returnWindow: '09/07/2020',
+      price: '$31.55'
     }
+    ]
   },
   {
     orderNumber: '# 113-9984268-1280257',

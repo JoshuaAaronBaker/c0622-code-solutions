@@ -104,14 +104,17 @@ hr {
   width: 100%;
   height: 100%;
   padding: 10%;
+  opacity: 0.9;
   position: relative;
 }
 
 .overlay {
-  background: linear-gradient(transparent, rgb(0 0 0 / 75%));
   position: absolute;
-  width: auto;
-  height: auto;
+  left: 5%;
+  right: 5%;
+  top: 5%;
+  width: 100%;
+  height: 100%;
 }
 
 .padding1 {
@@ -165,10 +168,6 @@ hr {
   border: none;
   border-radius: 3px;
   padding: 15px 40px;
-}
-
-.color {
-  color: rgb(110 110 110));
 }
 
 .h2font {
@@ -241,4 +240,5 @@ li {
 .paddingmargin {
   padding-top: 5%;
   padding-bottom: 5%;
+  margin-left: 5%;
 }

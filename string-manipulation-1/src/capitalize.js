@@ -3,7 +3,7 @@
 - look at the first character of the given word and capitalize it
 - loop through the rest of the word
 - make each subsequent character lowercase
-- return the original word
+- return the original word.
 */
 
 function capitalize(word) {

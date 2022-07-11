@@ -2,7 +2,7 @@
 
 /*
 - look at the first value of the string
-- return the value at that index
+- return the value at that index.
 */
 
 function getFirstChar(string) {

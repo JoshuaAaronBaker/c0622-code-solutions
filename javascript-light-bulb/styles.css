@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 100%;
+  margin: auto;
+}
+
+.light-off {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.bulb {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+
+.off {
+  background: rgb(37 37 37);
+}
+
+.light-on {
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.bulb-on {
+  background: rgb(249 234 132);
+}

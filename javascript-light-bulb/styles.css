@@ -28,7 +28,7 @@
 }
 
 .light-on {
-  background-color: white;
+  background-color: rgb(254 249 241);
   height: 100vh;
   display: flex;
   justify-content: center;

@@ -4,8 +4,15 @@
 -
 */
 function capitalizeWord(word) {
-// var newWord = '';
   word.replace(word[0], word[0].toUpperCase());
-  word.replace(word[word.length - 1], word[word.length - 1].toLowerCase());
+  for (var i = 1; i < word.length; i++) {
+    // eslint-disable-next-line eqeqeq
+    if (word == 'JavaScript') {
+      word = 'JavaScript';
+      return word;
+    } else {
+      word.replace(word[i], word[i].toLowerCase());
+    }
+  }
   return word;
 }

@@ -8,15 +8,20 @@
   <title>Modal</title>
 </head>
 <body>
-  <div>
-    <button class="blue">Open Me</button>
-  </div>
-  <div class="modal">
-
-  </div>
-  <div class="modal-content">
-    <h1>Would you like to take a survey?</h1>
-    <button class="red">NO</button>
+  <div class="flex">
+    <div class="overlay active">
+    </div>
+    <div>
+      <button class="blue">Open Me</button>
+    </div>
+    <div class="center">
+      <div class="modal-container active">
+        <div class="white">
+          <h1>Would you like to take a survey?</h1>
+          <button class="red">NO</button>
+        </div>
+      </div>
+    </div>
   </div>
   <script src="main.js"></script>
 </body>

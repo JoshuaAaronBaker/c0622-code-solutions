@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+.flex {
+  display: flex;
+}
+
+.center {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.blue {
+  padding: 15px 30px;
+  color: white;
+  background-color: blue;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.red {
+  padding: 15px 30px;
+  color: white;
+  background-color: red;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.modal-container {
+  position: fixed;
+  text-align: center;
+  width: 500px;
+  max-width: 80%;
+  border: 0;
+  background-color: white;
+  padding: 20px 30px;
+}
+
+.white {
+  background-color: white;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgb(0 0 0 / 70%);
+}
+
+.active {
+  display: none;
+}

@@ -1,18 +1,16 @@
 /* exported chunk */
-
+/*
+- make an empty list to store items
+- look through the given list
+- divide up the list at the specified points based on given size
+- store the items in new list
+- return the new list
+*/
 function chunk(array, size) {
-  var subArray1 = [];
-  var subArray2 = [];
-
-  if (size > array.length) {
-    return array;
+  var newArray = [];
+  for (var i = 0; i < array.length; i += size) {
+    var subArray = array.slice(i, i + size);
+    newArray.push(subArray);
   }
-
-  for (var i = 0; i < size; i++) {
-    subArray1.push(array[i]);
-    for (var k = size; k < array.length; k++) {
-      subArray2.push(array[k]);
-    }
-  }
-  return subArray2;
+  return newArray;
 }

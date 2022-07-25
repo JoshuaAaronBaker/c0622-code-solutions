@@ -12,7 +12,8 @@ function capitalizeWord(word) {
   var newWord = word[0].toUpperCase();
   for (var i = 1; i <= word.length - 1; i++) {
     newWord += word[i].toLowerCase();
-  } if (newWord === 'Javascript') {
+  }
+  if (newWord === 'Javascript') {
     return 'JavaScript';
   }
   return newWord;

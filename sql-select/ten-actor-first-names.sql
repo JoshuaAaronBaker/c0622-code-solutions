@@ -1,4 +1,5 @@
-SELECT "firstName"
+SELECT "actorId"
+       "firstName",
+       "lastName"
 FROM "actors"
-ORDER BY "actorId" ASC
 LIMIT 10;

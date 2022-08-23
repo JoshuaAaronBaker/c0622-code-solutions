@@ -21,13 +21,13 @@ app.get('/api/notes/:id', (req, res) => {
 
   if (!Number.isInteger(id) || id <= 0) {
     res.status(400).json({ error: 'id should be a positve integer!!!' });
+    return;
   }
   if (!data.notes[id]) {
     res.status(404).json({ error: `sorry there is no note with an id of: ${id}` });
+    return;
   }
-
   res.status(200).json(data.notes[id]);
-  res.end();
 });
 
 app.post('/api/notes', (req, res) => {
@@ -62,7 +62,7 @@ app.delete('/api/notes/:id', (req, res) => {
         console.error(err);
         res.status(500).json({ error: 'Sorry an unexpected error occured' });
       } else {
-        res.status(204).json('');
+        res.status(204).json();
       }
     });
   }

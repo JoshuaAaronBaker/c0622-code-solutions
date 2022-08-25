@@ -4,4 +4,4 @@ const myChance = takeAChance('Joshua Baker');
 
 myChance
   .then(value => console.log(value))
-  .catch(Error => console.error(Error.message));
+  .catch(error => console.error(error.message));

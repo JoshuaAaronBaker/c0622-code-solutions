@@ -1,602 +1,602 @@
-     customerName     | rentals |  paid  
-----------------------+---------+--------
- KarlSeal             |      45 | 221.55
- EleanorHunt          |      46 | 216.54
- ClaraShaw            |      42 | 195.58
- RhondaKennedy        |      39 | 194.61
- MarionSnyder         |      39 | 194.61
- TommyCollazo         |      38 | 186.62
- WesleyBull           |      40 | 177.60
- TimCary              |      39 | 175.61
- MarciaDean           |      42 | 175.58
- AnaBradley           |      34 | 174.66
- JuneCarroll          |      37 | 173.63
- LenaJensen           |      33 | 170.67
- DianeCollins         |      35 | 169.65
- ArnoldHavens         |      33 | 167.67
- CurtisIrby           |      38 | 167.62
- MikeWay              |      35 | 166.65
- DaisyBates           |      38 | 162.62
- TonyaChapman         |      32 | 161.68
- LouisLeone           |      35 | 161.65
- GordonAllard         |      32 | 160.68
- BrittanyRiley        |      28 | 159.72
- GuyBrownlee          |      32 | 159.68
- WarrenSherrod        |      33 | 159.67
- MargieWade           |      36 | 159.64
- MaeFletcher          |      31 | 158.69
- SteveMackenzie       |      34 | 158.66
- HarryArce            |      35 | 157.65
- PriscillaLowe        |      35 | 157.65
- ArthurSimpkins       |      32 | 155.68
- MichelleClark        |      35 | 155.65
- TammySanders         |      41 | 155.59
- SuePeters            |      40 | 154.60
- SherryMarshall       |      34 | 153.66
- NeilRenner           |      32 | 152.68
- ShawnHeaton          |      33 | 152.67
- JessicaHall          |      34 | 152.66
- NaomiJennings        |      35 | 152.65
- LeslieSeward         |      35 | 152.65
- BrandonHuey          |      37 | 152.63
- AlexGresham          |      33 | 151.67
- MariaMiller          |      33 | 151.67
- StaceyMontgomery     |      34 | 151.66
- AlmaAustin           |      35 | 151.65
- AlexanderFennell     |      36 | 151.64
- MarshaDouglas        |      37 | 151.63
- RalphMadrigal        |      34 | 150.66
- BillyPoulin          |      35 | 149.65
- DuaneTubbs           |      31 | 148.69
- JacquelineLong       |      33 | 148.67
- ChristopherGreco     |      31 | 147.69
- RosemarySchmidt      |      35 | 147.65
- ZacharyHite          |      31 | 146.69
- GladysHamilton       |      31 | 146.69
- RogerQuintanilla     |      36 | 146.64
- WandaPatterson       |      30 | 145.70
- NicholasBarfield     |      32 | 145.68
- BerniceWillis        |      33 | 145.67
- TroyQuigley          |      30 | 144.70
- OlgaJimenez          |      32 | 144.68
- TanyaGilbert         |      33 | 144.67
- JaniceWard           |      34 | 144.66
- ElizabethBrown       |      38 | 144.62
- JerryJordon          |      29 | 143.71
- RoyWhiting           |      29 | 143.71
- SylviaOrtiz          |      32 | 143.68
- RyanSalisbury        |      30 | 142.70
- VioletRodriquez      |      30 | 142.70
- MinnieRomero         |      34 | 142.66
- CatherineCampbell    |      34 | 142.66
- DebraNelson          |      29 | 141.71
- GregRobins           |      30 | 141.70
- LoriWood             |      31 | 141.69
- SaraPerry            |      33 | 141.67
- JessieMilam          |      33 | 141.67
- CaseyMena            |      34 | 141.66
- ElsieKelley          |      37 | 141.63
- RamonChoate          |      31 | 140.69
- GlendaFrazier        |      32 | 140.68
- AngelaHernandez      |      36 | 140.64
- AlvinDeloach         |      29 | 139.71
- JamieRice            |      29 | 139.71
- StanleyScroggins     |      30 | 139.70
- RobertoVu            |      30 | 139.70
- GraceEllis           |      33 | 139.67
- MorrisMccarter       |      34 | 139.66
- MauriceCrawley       |      29 | 138.71
- JoeGilliland         |      29 | 138.71
- CharlesKowalski      |      32 | 138.68
- AliceStewart         |      33 | 138.67
- BrettCornwell        |      34 | 138.66
- MarilynRoss          |      30 | 137.70
- JohnFarnsworth       |      31 | 137.69
- EllaOliver           |      31 | 137.69
- CrystalFord          |      33 | 137.67
- GertrudeCastillo     |      34 | 137.66
- JeanneLawson         |      27 | 136.73
- RussellBrinson       |      36 | 136.64
- LindaWilliams        |      26 | 135.74
- MiriamMckinney       |      26 | 135.74
- JimmieEggleston      |      28 | 135.72
- MiguelBetancourt     |      29 | 135.71
- GloriaCook           |      30 | 135.70
- RaymondMcwhorter     |      30 | 135.70
- DianneShelton        |      31 | 135.69
- EthelWebb            |      32 | 135.68
- JavierElrod          |      32 | 135.68
- ReginaBerry          |      34 | 135.66
- KentArsenault        |      27 | 134.73
- JosephJoy            |      30 | 134.70
- DaveGardiner         |      32 | 134.68
- MitchellWestmoreland |      32 | 134.68
- HelenHarris          |      32 | 134.68
- JuliaFlores          |      32 | 134.68
- BarryLovelace        |      33 | 134.67
- JorgeOlivares        |      34 | 134.66
- DonBone              |      25 | 133.75
- CherylMurphy         |      27 | 133.73
- NathanielAdam        |      28 | 133.72
- TinaSimmons          |      28 | 133.72
- DanaHart             |      29 | 133.71
- JennieTerry          |      29 | 133.71
- RosaReynolds         |      30 | 133.70
- BessieMorrison       |      28 | 132.72
- StevenCurley         |      29 | 132.71
- RonaldWeiner         |      30 | 132.70
- TracyCole            |      30 | 132.70
- JordanArchuleta      |      30 | 132.70
- CourtneyDay          |      32 | 132.68
- KarenJackson         |      27 | 131.73
- JamesGannon          |      30 | 131.70
- GeorgeLinton         |      33 | 131.67
- KathrynColeman       |      26 | 130.74
- EduardoHiatt         |      27 | 130.73
- JoyceEdwards         |      28 | 130.72
- MicheleGrant         |      30 | 130.70
- HaroldMartino        |      32 | 130.68
- DebbieReyes          |      32 | 130.68
- GilbertSledge        |      28 | 129.72
- TracyHerrmann        |      28 | 129.72
- SalvadorTeel         |      30 | 129.70
- RamonaHale           |      30 | 129.70
- KathyJames           |      30 | 129.70
- CassandraWalters     |      30 | 129.70
- VirginiaGreen        |      32 | 129.68
- ViolaHanson          |      32 | 129.68
- JustinNgo            |      36 | 129.64
- EddieTomlin          |      27 | 128.73
- PatriciaJohnson      |      27 | 128.73
- JasonMorrissey       |      28 | 128.72
- TeresaRogers         |      29 | 128.71
- MonicaHicks          |      30 | 128.70
- SherriRhodes         |      33 | 128.67
- JimRea               |      33 | 128.67
- MiltonHowland        |      25 | 127.75
- JanetPhillips        |      27 | 127.73
- MichaelSilverman     |      29 | 127.71
- TerryCarlson         |      29 | 127.71
- AmyLopez             |      29 | 127.71
- WalterPerryman       |      30 | 127.70
- FrankWaggoner        |      32 | 127.68
- MarjorieTucker       |      32 | 127.68
- MarthaGonzalez       |      34 | 127.66
- JoanneRobertson      |      34 | 127.66
- BradleyMotley        |      27 | 126.73
- TerriVasquez         |      27 | 126.73
- AndreRapp            |      28 | 126.72
- SoniaGregory         |      28 | 126.72
- IsaacOglesby         |      29 | 126.71
- JaimeNettles         |      29 | 126.71
- FlorenceWoods        |      30 | 126.70
- ShirleyAllen         |      31 | 126.69
- ThelmaMurray         |      32 | 126.68
- VeronicaStone        |      32 | 126.68
- RuthMartinez         |      24 | 125.76
- AlanKahn             |      26 | 124.74
- RickMattox           |      27 | 124.73
- BryanHardison        |      28 | 124.72
- CraigMorrell         |      30 | 124.70
- JoyGeorge            |      33 | 124.67
- CarriePorter         |      34 | 124.66
- LynnPayne            |      28 | 123.72
- NinaSoto             |      29 | 123.71
- MarcOutlaw           |      30 | 123.70
- MelissaKing          |      34 | 123.66
- BenEaster            |      26 | 122.74
- EricRobert           |      27 | 122.73
- BrandyGraves         |      28 | 122.72
- CathySpencer         |      29 | 122.71
- HildaHopkins         |      29 | 122.71
- ChristyVargas        |      31 | 122.69
- NathanRunyon         |      32 | 122.68
- HeidiLarson          |      34 | 122.66
- JohnnieChisholm      |      24 | 121.76
- ValerieBlack         |      26 | 121.74
- GeraldFultz          |      30 | 121.70
- JefferyPinson        |      31 | 121.69
- PhilipCausey         |      31 | 121.69
- PaulTrout            |      23 | 120.77
- DawnSullivan         |      26 | 120.74
- AlfredCasillas       |      26 | 120.74
- ArleneHarvey         |      26 | 120.74
- CharlieBess          |      26 | 120.74
- ByronBox             |      29 | 120.71
- SandraMartin         |      29 | 120.71
- VickieBrewer         |      31 | 120.69
- HectorPoindexter     |      26 | 119.74
- BeatriceArnold       |      26 | 119.74
- LeeHawks             |      27 | 119.73
- PatsyDavidson        |      28 | 119.72
- AudreyRay            |      29 | 119.71
- JoshuaMark           |      30 | 119.70
- SarahLewis           |      30 | 119.70
- PatrickNewsom        |      31 | 119.69
- SallyPierce          |      32 | 119.68
- StephanieMitchell    |      25 | 118.75
- JamieWaugh           |      25 | 118.75
- TraceyBarrett        |      27 | 118.73
- MistyLambert         |      27 | 118.73
- CliftonMalcolm       |      28 | 118.72
- NoraHerrera          |      28 | 118.72
- StephenQualls        |      28 | 118.72
- ErikGuillen          |      29 | 118.71
- MarySmith            |      32 | 118.68
- LeroyBustamante      |      32 | 118.68
- MarshallThorn        |      23 | 117.77
- PerrySwafford        |      24 | 117.76
- SamMcduffie          |      24 | 117.76
- FernandoChurchill    |      25 | 117.75
- MarleneWelch         |      26 | 117.74
- VelmaLucas           |      27 | 117.73
- BettyWhite           |      28 | 117.72
- EllenSimpson         |      28 | 117.72
- ToddTan              |      29 | 117.71
- TedBreaux            |      29 | 117.71
- CarolynPerez         |      30 | 117.70
- TerrenceGunderson    |      30 | 117.70
- KevinSchuler         |      22 | 116.78
- EdwinBurk            |      23 | 116.77
- ManuelMurrell        |      30 | 116.70
- KristinJohnston      |      31 | 116.69
- TheodoreCulp         |      31 | 116.69
- MaxineSilva          |      32 | 116.68
- DavidRoyal           |      26 | 115.74
- CecilVines           |      26 | 115.74
- JeanBell             |      27 | 115.73
- ReginaldKinder       |      28 | 115.72
- ClydeTobias          |      29 | 115.71
- DeborahWalker        |      29 | 115.71
- BeckyMiles           |      29 | 115.71
- HermanDevore         |      29 | 115.71
- MarionOcampo         |      29 | 115.71
- SharonRobinson       |      30 | 115.70
- MarcusHidalgo        |      30 | 115.70
- HeatherMorris        |      30 | 115.70
- AngelBarclay         |      32 | 115.68
- JesusMccartney       |      24 | 114.76
- DouglasGraf          |      25 | 114.75
- DoloresWagner        |      26 | 114.74
- MarieTurner          |      26 | 114.74
- CharleneAlvarez      |      27 | 114.73
- DennisGilman         |      28 | 114.72
- EdwardBaugh          |      28 | 114.72
- EvelynMorgan         |      28 | 114.72
- BillGavin            |      28 | 114.72
- MatthewMahan         |      31 | 114.69
- HollyFox             |      31 | 114.69
- LauraRodriguez       |      22 | 113.78
- AndyVanhorn          |      25 | 113.75
- GlenTalbert          |      26 | 113.74
- ReneMcalister        |      26 | 113.74
- ShellyWatts          |      26 | 113.74
- AmberDixon           |      27 | 113.73
- CliffordBowens       |      29 | 113.71
- CindyFisher          |      29 | 113.71
- LoisButler           |      35 | 113.65
- BrentHarkins         |      23 | 112.77
- TyroneAsher          |      24 | 112.76
- AshleyRichardson     |      25 | 112.75
- SethHannon           |      25 | 112.75
- LarryThrasher        |      26 | 112.74
- DaleRatcliff         |      27 | 112.73
- MarioCheatham        |      28 | 112.72
- MabelHolland         |      30 | 112.70
- GeraldinePerkins     |      30 | 112.70
- CalvinMartel         |      23 | 111.77
- ClaudeHerzog         |      25 | 111.75
- ClaudiaFuller        |      26 | 111.74
- GabrielHarder        |      26 | 111.74
- EarlShanks           |      27 | 111.73
- VictoriaGibson       |      27 | 111.73
- DarylLarue           |      27 | 111.73
- GinaWilliamson       |      28 | 111.72
- TerranceRoush        |      29 | 111.71
- CynthiaYoung         |      32 | 111.68
- MyrtleFleming        |      24 | 110.76
- AaronSelby           |      24 | 110.76
- TravisEstep          |      25 | 110.75
- GeorgiaJacobs        |      26 | 110.74
- AmandaCarter         |      27 | 110.73
- YolandaWeaver        |      27 | 110.73
- EverettBanda         |      28 | 110.72
- RubyWashington       |      28 | 110.72
- RandyGaither         |      28 | 110.72
- KenPrewitt           |      29 | 110.71
- JuanitaMason         |      30 | 110.70
- KyleSpurlock         |      30 | 110.70
- HazelWarren          |      34 | 110.66
- DanPaine             |      22 | 109.78
- RichardMccrary       |      25 | 109.75
- GailKnight           |      25 | 109.75
- KatieElliott         |      25 | 109.75
- WallaceSlone         |      25 | 109.75
- LeonBostic           |      25 | 109.75
- JosephineGomez       |      26 | 109.74
- AndrewPurdy          |      27 | 109.73
- DeanSauer            |      27 | 109.73
- KristinaChambers     |      28 | 109.72
- JulianVest           |      28 | 109.72
- LeonardSchofield     |      32 | 109.68
- FrancesParker        |      22 | 108.78
- DarrenWindham        |      24 | 108.76
- VickiFields          |      25 | 108.75
- SidneyBurleson       |      25 | 108.75
- SergioStanfield      |      26 | 108.74
- LucilleHolmes        |      28 | 108.72
- CaroleBarnett        |      30 | 108.70
- MarianMendoza        |      23 | 107.77
- DoraMedina           |      23 | 107.77
- ElaineStevens        |      24 | 107.76
- MaxPitt              |      24 | 107.76
- EdnaWest             |      26 | 107.74
- DeannaByrd           |      26 | 107.74
- KellyKnott           |      26 | 107.74
- VirgilWofford        |      27 | 107.73
- JulieSanchez         |      29 | 107.71
- JeffEast             |      30 | 107.70
- TomMilner            |      32 | 107.68
- CarlArtis            |      23 | 106.77
- CarlosCoughlin       |      23 | 106.77
- PeterMenard          |      23 | 106.77
- LisaAnderson         |      24 | 106.76
- LillianGriffin       |      25 | 106.75
- ErinDunn             |      27 | 106.73
- BobbyBoudreau        |      35 | 106.65
- FrederickIsbell      |      21 | 105.79
- DanielleDaniels      |      25 | 105.75
- ThomasGrigsby        |      25 | 105.75
- BradMccurdy          |      25 | 105.75
- VincentRalston       |      25 | 105.75
- DianaAlexander       |      27 | 105.73
- JimmySchrader        |      29 | 105.71
- StellaMoreno         |      22 | 104.78
- RodneyMoeller        |      23 | 104.77
- LeoEbert             |      23 | 104.77
- LeahCurtis           |      25 | 104.75
- MarkRinehart         |      26 | 104.74
- FrancisSikes         |      26 | 104.74
- BrendaWright         |      26 | 104.74
- ClarenceGamez        |      30 | 104.70
- RoseHoward           |      22 | 103.78
- RonDeluca            |      23 | 103.77
- BruceSchwarz         |      23 | 103.77
- PedroChestnut        |      24 | 103.76
- ClintonBuford        |      25 | 103.75
- GaryCoy              |      25 | 103.75
- BethFranklin         |      25 | 103.75
- CarlaGutierrez       |      26 | 103.74
- JennyCastro          |      27 | 103.73
- DeniseKelly          |      27 | 103.73
- MartinBales          |      27 | 103.73
- JeremyHurtado        |      28 | 103.72
- NancyThomas          |      28 | 103.72
- RobinHayes           |      24 | 102.76
- MichealForman        |      26 | 102.74
- AdamGooch            |      22 | 101.78
- DwayneOlvera         |      22 | 101.78
- CoreyHauser          |      22 | 101.78
- BerthaFerguson       |      25 | 101.75
- WillieMarkham        |      25 | 101.75
- LouiseJenkins        |      25 | 101.75
- PhillipHolm          |      26 | 101.74
- JesseSchilling       |      26 | 101.74
- WillieHowell         |      26 | 101.74
- ErikaPena            |      26 | 101.74
- RaulFortier          |      20 | 100.80
- DorisReed            |      22 | 100.78
- ConnieWallace        |      23 | 100.77
- ShannonFreeman       |      24 | 100.76
- RonnieRicketts       |      25 | 100.75
- WilliamSatterfield   |      26 | 100.74
- DustinGillette       |      26 | 100.74
- JaneBennett          |      28 | 100.72
- LawrenceLawton       |      31 | 100.69
- JudithCox            |      33 | 100.67
- OscarAquino          |      20 |  99.80
- RicardoMeador        |      21 |  99.79
- KellyTorres          |      22 |  99.78
- KurtEmmons           |      23 |  99.77
- LaurieLawrence       |      23 |  99.77
- AlbertCrouse         |      23 |  99.77
- RandallNeumann       |      23 |  99.77
- ChesterBenner        |      24 |  99.76
- ChristineRoberts     |      24 |  99.76
- DorothyTaylor        |      25 |  99.75
- FreddieDuggan        |      25 |  99.75
- IvanCromwell         |      26 |  99.74
- RossGrey             |      27 |  99.73
- TheresaWatson        |      30 |  99.70
- KayCaldwell          |      20 |  98.80
- DonnaThompson        |      21 |  98.79
- FranciscoSkidmore    |      22 |  98.78
- CodyNolen            |      22 |  98.78
- StacyCunningham      |      23 |  98.77
- AgnesBishop          |      23 |  98.77
- AnnetteOlson         |      24 |  98.76
- GwendolynMay         |      25 |  98.75
- MildredBailey        |      25 |  98.75
- ElmerNoe             |      26 |  98.74
- PaulineHenry         |      27 |  98.73
- DanielCabral         |      20 |  97.80
- RafaelAbney          |      21 |  97.79
- BeverlyBrooks        |      24 |  97.76
- MelvinEllington      |      26 |  97.74
- CarmenOwens          |      26 |  97.74
- ReneeLane            |      26 |  97.74
- GeneSanborn          |      27 |  97.73
- DerekBlakely         |      28 |  97.72
- WillardLumpkin       |      22 |  96.78
- PeggyMyers           |      24 |  96.76
- JudyGray             |      25 |  96.75
- JoseAndrew           |      25 |  96.75
- ClaytonBarbee        |      26 |  96.74
- IanStill             |      27 |  96.73
- EnriqueForsythe      |      28 |  96.72
- EricaMatthews        |      22 |  95.78
- DerrickBourque       |      22 |  95.78
- ShaneMillard         |      22 |  95.78
- JoelFrancisco        |      23 |  95.77
- ToniHolt             |      23 |  95.77
- BenjaminVarney       |      23 |  95.77
- PamelaBaker          |      23 |  95.77
- NatalieMeyer         |      23 |  95.77
- KimberlyLee          |      25 |  95.75
- ConstanceReid        |      25 |  95.75
- EdgarRhoads          |      25 |  95.75
- EstherCrawford       |      28 |  95.72
- LonnieTirado         |      18 |  94.82
- NellieGarrett        |      21 |  94.79
- NicolePeterson       |      22 |  94.78
- EmmaBoyd             |      23 |  94.77
- SuzanneNichols       |      24 |  94.76
- ScottShelley         |      25 |  94.75
- AprilBurns           |      26 |  94.74
- HarveyGuajardo       |      22 |  93.78
- AndreaHenderson      |      22 |  93.78
- LorettaCarpenter     |      22 |  93.78
- GlennPullen          |      23 |  93.77
- CharlotteHunter      |      24 |  93.76
- JackieLynch          |      25 |  93.75
- TamaraNguyen         |      25 |  93.75
- HowardFortner        |      26 |  93.74
- JenniferDavis        |      28 |  93.72
- YvonneWatkins        |      21 |  92.79
- RobertBaughman       |      21 |  92.79
- RitaGraham           |      24 |  92.76
- SusanWilson          |      24 |  92.76
- MelanieArmstrong     |      25 |  92.75
- AllisonStanley       |      27 |  92.73
- KathleenAdams        |      27 |  92.73
- MeganPalmer          |      27 |  92.73
- WilmaRichards        |      20 |  91.80
- DannyIsom            |      21 |  91.79
- AnnaHill             |      21 |  91.79
- DeloresHansen        |      21 |  91.79
- CarolGarcia          |      22 |  91.78
- TimothyBunn          |      22 |  91.78
- SeanDouglass         |      23 |  91.77
- PhyllisFoster        |      23 |  91.77
- VictorBarkley        |      24 |  91.76
- BobPfeiffer          |      24 |  91.76
- EmilyDiaz            |      24 |  91.76
- DarrellPower         |      25 |  91.75
- RickyShelby          |      25 |  91.75
- LucyWheeler          |      26 |  91.74
- JessieBanks          |      26 |  91.74
- WendyHarrison        |      30 |  91.70
- HughWaldrop          |      21 |  90.79
- MathewBolin          |      22 |  90.78
- JeffreySpear         |      23 |  90.77
- VivianRuiz           |      23 |  90.77
- RubenGeary           |      21 |  89.79
- JulioNoland          |      21 |  89.79
- LeslieGordon         |      22 |  89.78
- LillieKim            |      23 |  89.77
- MargaretMoore        |      23 |  89.77
- DonaldMahon          |      23 |  89.77
- JackFoust            |      24 |  89.76
- RebeccaScott         |      24 |  89.76
- ChadCarbone          |      25 |  89.75
- ErnestStepp          |      25 |  89.75
- JayRobb              |      26 |  89.74
- KeithRico            |      26 |  89.74
- VernonChapa          |      18 |  88.82
- TaraRyan             |      20 |  88.80
- TylerWren            |      21 |  88.79
- BernardColby         |      22 |  88.78
- ChristianJung        |      24 |  88.76
- FredWheat            |      25 |  88.75
- BillieHorton         |      26 |  88.74
- KristenChavez        |      18 |  87.82
- JaredEly             |      19 |  87.81
- BonnieHughes         |      21 |  87.79
- MaureenLittle        |      21 |  87.79
- AnnePowell           |      23 |  87.77
- ColleenBurton        |      24 |  87.76
- JonWiles             |      24 |  87.76
- VanessaSims          |      19 |  86.81
- LewisLyman           |      19 |  86.81
- LorraineStephens     |      21 |  86.79
- FeliciaSutton        |      28 |  86.72
- AlfredoMcadams       |      20 |  85.80
- AllenButterfield     |      21 |  85.79
- KennethGooden        |      17 |  84.83
- RachelBarnes         |      22 |  84.78
- ChrisBrothers        |      22 |  84.78
- JoanCooper           |      23 |  84.77
- RobertaHarper        |      23 |  84.77
- EvaRamos             |      18 |  83.82
- AustinCintron        |      19 |  83.81
- AliciaMills          |      21 |  83.79
- ArmandoGruber        |      21 |  83.79
- WadeDelvalle         |      22 |  83.78
- KimCruz              |      21 |  82.79
- LancePemberton       |      22 |  82.78
- LydiaBurke           |      24 |  82.76
- BarbaraJones         |      22 |  81.78
- CoryMeehan           |      24 |  81.76
- MelindaFernandez     |      17 |  80.83
- ChristinaRamirez     |      18 |  80.82
- EileenCarr           |      18 |  80.82
- SamuelMarlow         |      21 |  80.79
- RolandSouth          |      23 |  80.77
- BobbieCraig          |      24 |  80.76
- NormanCurrier        |      26 |  80.74
- AllanCornish         |      19 |  79.81
- LuisYanez            |      20 |  79.80
- JacobLance           |      21 |  79.79
- NormaGonzales        |      21 |  79.79
- RayHoule             |      22 |  79.78
- AntonioMeek          |      16 |  78.84
- HerbertKruger        |      20 |  78.80
- GregoryMauldin       |      23 |  78.77
- PaulaBryant          |      18 |  77.82
- NelsonChristenson    |      20 |  77.80
- IrenePrice           |      23 |  77.77
- AnnEvans             |      17 |  76.83
- PearlGarza           |      22 |  76.78
- IdaAndrews           |      23 |  76.77
- DarrylAshcraft       |      23 |  76.77
- MarvinYee            |      21 |  75.79
- DwightLombardi       |      17 |  74.83
- AdrianClary          |      19 |  74.81
- JeanetteGreene       |      20 |  74.80
- FranklinTroutman     |      22 |  74.78
- TonyCarranza         |      22 |  74.78
- JeromeKenyon         |      16 |  73.84
- SheilaWells          |      18 |  73.82
- HenryBillingsley     |      18 |  73.82
- JoFowler             |      20 |  73.80
- JuanFraley           |      23 |  73.77
- FelixGaffney         |      24 |  73.76
- JonathanScarborough  |      18 |  72.82
- TerryGrissom         |      20 |  72.80
- EdithMcdonald        |      19 |  71.81
- EugeneCulpepper      |      19 |  71.81
- LaurenHudson         |      20 |  71.80
- AnthonySchwab        |      20 |  71.80
- SamanthaDuncan       |      23 |  71.77
- IrmaPearson          |      18 |  70.82
- WayneTruong          |      19 |  70.81
- FloydGandy           |      17 |  69.83
- PennyNeal            |      18 |  68.82
- JillHawkins          |      21 |  68.79
- VeraMccoy            |      18 |  67.82
- JoannGardner         |      16 |  66.84
- LloydDowd            |      19 |  66.81
- AlbertoHenning       |      21 |  66.79
- LesterKraus          |      16 |  65.84
- KirkStclair          |      19 |  64.81
- MattieHoffman        |      22 |  64.78
- AnitaMorales         |      15 |  62.85
- TiffanyJordan        |      14 |  59.86
- KatherineRivera      |      14 |  58.86
- AnnieRussell         |      18 |  58.82
- JohnnyTurpin         |      19 |  57.81
- BrianWyman           |      12 |  52.88
- LeonaObrien          |      14 |  50.86
- CarolineBowman       |      15 |  50.85
+  firstName  |   lastName   | rentals |  paid  
+-------------+--------------+---------+--------
+ Karl        | Seal         |      45 | 221.55
+ Eleanor     | Hunt         |      46 | 216.54
+ Clara       | Shaw         |      42 | 195.58
+ Rhonda      | Kennedy      |      39 | 194.61
+ Marion      | Snyder       |      39 | 194.61
+ Tommy       | Collazo      |      38 | 186.62
+ Wesley      | Bull         |      40 | 177.60
+ Tim         | Cary         |      39 | 175.61
+ Marcia      | Dean         |      42 | 175.58
+ Ana         | Bradley      |      34 | 174.66
+ June        | Carroll      |      37 | 173.63
+ Lena        | Jensen       |      33 | 170.67
+ Diane       | Collins      |      35 | 169.65
+ Arnold      | Havens       |      33 | 167.67
+ Curtis      | Irby         |      38 | 167.62
+ Mike        | Way          |      35 | 166.65
+ Daisy       | Bates        |      38 | 162.62
+ Tonya       | Chapman      |      32 | 161.68
+ Louis       | Leone        |      35 | 161.65
+ Gordon      | Allard       |      32 | 160.68
+ Brittany    | Riley        |      28 | 159.72
+ Guy         | Brownlee     |      32 | 159.68
+ Warren      | Sherrod      |      33 | 159.67
+ Margie      | Wade         |      36 | 159.64
+ Mae         | Fletcher     |      31 | 158.69
+ Steve       | Mackenzie    |      34 | 158.66
+ Priscilla   | Lowe         |      35 | 157.65
+ Harry       | Arce         |      35 | 157.65
+ Arthur      | Simpkins     |      32 | 155.68
+ Michelle    | Clark        |      35 | 155.65
+ Tammy       | Sanders      |      41 | 155.59
+ Sue         | Peters       |      40 | 154.60
+ Sherry      | Marshall     |      34 | 153.66
+ Neil        | Renner       |      32 | 152.68
+ Shawn       | Heaton       |      33 | 152.67
+ Jessica     | Hall         |      34 | 152.66
+ Naomi       | Jennings     |      35 | 152.65
+ Leslie      | Seward       |      35 | 152.65
+ Brandon     | Huey         |      37 | 152.63
+ Alex        | Gresham      |      33 | 151.67
+ Maria       | Miller       |      33 | 151.67
+ Stacey      | Montgomery   |      34 | 151.66
+ Alma        | Austin       |      35 | 151.65
+ Alexander   | Fennell      |      36 | 151.64
+ Marsha      | Douglas      |      37 | 151.63
+ Ralph       | Madrigal     |      34 | 150.66
+ Billy       | Poulin       |      35 | 149.65
+ Duane       | Tubbs        |      31 | 148.69
+ Jacqueline  | Long         |      33 | 148.67
+ Christopher | Greco        |      31 | 147.69
+ Rosemary    | Schmidt      |      35 | 147.65
+ Gladys      | Hamilton     |      31 | 146.69
+ Zachary     | Hite         |      31 | 146.69
+ Roger       | Quintanilla  |      36 | 146.64
+ Wanda       | Patterson    |      30 | 145.70
+ Nicholas    | Barfield     |      32 | 145.68
+ Bernice     | Willis       |      33 | 145.67
+ Troy        | Quigley      |      30 | 144.70
+ Olga        | Jimenez      |      32 | 144.68
+ Tanya       | Gilbert      |      33 | 144.67
+ Janice      | Ward         |      34 | 144.66
+ Elizabeth   | Brown        |      38 | 144.62
+ Jerry       | Jordon       |      29 | 143.71
+ Roy         | Whiting      |      29 | 143.71
+ Sylvia      | Ortiz        |      32 | 143.68
+ Ryan        | Salisbury    |      30 | 142.70
+ Violet      | Rodriquez    |      30 | 142.70
+ Minnie      | Romero       |      34 | 142.66
+ Catherine   | Campbell     |      34 | 142.66
+ Debra       | Nelson       |      29 | 141.71
+ Greg        | Robins       |      30 | 141.70
+ Lori        | Wood         |      31 | 141.69
+ Sara        | Perry        |      33 | 141.67
+ Jessie      | Milam        |      33 | 141.67
+ Casey       | Mena         |      34 | 141.66
+ Elsie       | Kelley       |      37 | 141.63
+ Ramon       | Choate       |      31 | 140.69
+ Glenda      | Frazier      |      32 | 140.68
+ Angela      | Hernandez    |      36 | 140.64
+ Jamie       | Rice         |      29 | 139.71
+ Alvin       | Deloach      |      29 | 139.71
+ Roberto     | Vu           |      30 | 139.70
+ Stanley     | Scroggins    |      30 | 139.70
+ Grace       | Ellis        |      33 | 139.67
+ Morris      | Mccarter     |      34 | 139.66
+ Joe         | Gilliland    |      29 | 138.71
+ Maurice     | Crawley      |      29 | 138.71
+ Charles     | Kowalski     |      32 | 138.68
+ Alice       | Stewart      |      33 | 138.67
+ Brett       | Cornwell     |      34 | 138.66
+ Marilyn     | Ross         |      30 | 137.70
+ John        | Farnsworth   |      31 | 137.69
+ Ella        | Oliver       |      31 | 137.69
+ Crystal     | Ford         |      33 | 137.67
+ Gertrude    | Castillo     |      34 | 137.66
+ Jeanne      | Lawson       |      27 | 136.73
+ Russell     | Brinson      |      36 | 136.64
+ Linda       | Williams     |      26 | 135.74
+ Miriam      | Mckinney     |      26 | 135.74
+ Jimmie      | Eggleston    |      28 | 135.72
+ Miguel      | Betancourt   |      29 | 135.71
+ Raymond     | Mcwhorter    |      30 | 135.70
+ Gloria      | Cook         |      30 | 135.70
+ Dianne      | Shelton      |      31 | 135.69
+ Ethel       | Webb         |      32 | 135.68
+ Javier      | Elrod        |      32 | 135.68
+ Regina      | Berry        |      34 | 135.66
+ Kent        | Arsenault    |      27 | 134.73
+ Joseph      | Joy          |      30 | 134.70
+ Julia       | Flores       |      32 | 134.68
+ Dave        | Gardiner     |      32 | 134.68
+ Mitchell    | Westmoreland |      32 | 134.68
+ Helen       | Harris       |      32 | 134.68
+ Barry       | Lovelace     |      33 | 134.67
+ Jorge       | Olivares     |      34 | 134.66
+ Don         | Bone         |      25 | 133.75
+ Cheryl      | Murphy       |      27 | 133.73
+ Nathaniel   | Adam         |      28 | 133.72
+ Tina        | Simmons      |      28 | 133.72
+ Dana        | Hart         |      29 | 133.71
+ Jennie      | Terry        |      29 | 133.71
+ Rosa        | Reynolds     |      30 | 133.70
+ Bessie      | Morrison     |      28 | 132.72
+ Steven      | Curley       |      29 | 132.71
+ Ronald      | Weiner       |      30 | 132.70
+ Tracy       | Cole         |      30 | 132.70
+ Jordan      | Archuleta    |      30 | 132.70
+ Courtney    | Day          |      32 | 132.68
+ Karen       | Jackson      |      27 | 131.73
+ James       | Gannon       |      30 | 131.70
+ George      | Linton       |      33 | 131.67
+ Kathryn     | Coleman      |      26 | 130.74
+ Eduardo     | Hiatt        |      27 | 130.73
+ Joyce       | Edwards      |      28 | 130.72
+ Michele     | Grant        |      30 | 130.70
+ Debbie      | Reyes        |      32 | 130.68
+ Harold      | Martino      |      32 | 130.68
+ Gilbert     | Sledge       |      28 | 129.72
+ Tracy       | Herrmann     |      28 | 129.72
+ Salvador    | Teel         |      30 | 129.70
+ Cassandra   | Walters      |      30 | 129.70
+ Kathy       | James        |      30 | 129.70
+ Ramona      | Hale         |      30 | 129.70
+ Virginia    | Green        |      32 | 129.68
+ Viola       | Hanson       |      32 | 129.68
+ Justin      | Ngo          |      36 | 129.64
+ Patricia    | Johnson      |      27 | 128.73
+ Eddie       | Tomlin       |      27 | 128.73
+ Jason       | Morrissey    |      28 | 128.72
+ Teresa      | Rogers       |      29 | 128.71
+ Monica      | Hicks        |      30 | 128.70
+ Sherri      | Rhodes       |      33 | 128.67
+ Jim         | Rea          |      33 | 128.67
+ Milton      | Howland      |      25 | 127.75
+ Janet       | Phillips     |      27 | 127.73
+ Michael     | Silverman    |      29 | 127.71
+ Amy         | Lopez        |      29 | 127.71
+ Terry       | Carlson      |      29 | 127.71
+ Walter      | Perryman     |      30 | 127.70
+ Frank       | Waggoner     |      32 | 127.68
+ Marjorie    | Tucker       |      32 | 127.68
+ Joanne      | Robertson    |      34 | 127.66
+ Martha      | Gonzalez     |      34 | 127.66
+ Terri       | Vasquez      |      27 | 126.73
+ Bradley     | Motley       |      27 | 126.73
+ Andre       | Rapp         |      28 | 126.72
+ Sonia       | Gregory      |      28 | 126.72
+ Jaime       | Nettles      |      29 | 126.71
+ Isaac       | Oglesby      |      29 | 126.71
+ Florence    | Woods        |      30 | 126.70
+ Shirley     | Allen        |      31 | 126.69
+ Veronica    | Stone        |      32 | 126.68
+ Thelma      | Murray       |      32 | 126.68
+ Ruth        | Martinez     |      24 | 125.76
+ Alan        | Kahn         |      26 | 124.74
+ Rick        | Mattox       |      27 | 124.73
+ Bryan       | Hardison     |      28 | 124.72
+ Craig       | Morrell      |      30 | 124.70
+ Joy         | George       |      33 | 124.67
+ Carrie      | Porter       |      34 | 124.66
+ Lynn        | Payne        |      28 | 123.72
+ Nina        | Soto         |      29 | 123.71
+ Marc        | Outlaw       |      30 | 123.70
+ Melissa     | King         |      34 | 123.66
+ Ben         | Easter       |      26 | 122.74
+ Eric        | Robert       |      27 | 122.73
+ Brandy      | Graves       |      28 | 122.72
+ Cathy       | Spencer      |      29 | 122.71
+ Hilda       | Hopkins      |      29 | 122.71
+ Christy     | Vargas       |      31 | 122.69
+ Nathan      | Runyon       |      32 | 122.68
+ Heidi       | Larson       |      34 | 122.66
+ Johnnie     | Chisholm     |      24 | 121.76
+ Valerie     | Black        |      26 | 121.74
+ Gerald      | Fultz        |      30 | 121.70
+ Jeffery     | Pinson       |      31 | 121.69
+ Philip      | Causey       |      31 | 121.69
+ Paul        | Trout        |      23 | 120.77
+ Charlie     | Bess         |      26 | 120.74
+ Alfred      | Casillas     |      26 | 120.74
+ Dawn        | Sullivan     |      26 | 120.74
+ Arlene      | Harvey       |      26 | 120.74
+ Byron       | Box          |      29 | 120.71
+ Sandra      | Martin       |      29 | 120.71
+ Vickie      | Brewer       |      31 | 120.69
+ Hector      | Poindexter   |      26 | 119.74
+ Beatrice    | Arnold       |      26 | 119.74
+ Lee         | Hawks        |      27 | 119.73
+ Patsy       | Davidson     |      28 | 119.72
+ Audrey      | Ray          |      29 | 119.71
+ Joshua      | Mark         |      30 | 119.70
+ Sarah       | Lewis        |      30 | 119.70
+ Patrick     | Newsom       |      31 | 119.69
+ Sally       | Pierce       |      32 | 119.68
+ Jamie       | Waugh        |      25 | 118.75
+ Stephanie   | Mitchell     |      25 | 118.75
+ Tracey      | Barrett      |      27 | 118.73
+ Misty       | Lambert      |      27 | 118.73
+ Nora        | Herrera      |      28 | 118.72
+ Clifton     | Malcolm      |      28 | 118.72
+ Stephen     | Qualls       |      28 | 118.72
+ Erik        | Guillen      |      29 | 118.71
+ Mary        | Smith        |      32 | 118.68
+ Leroy       | Bustamante   |      32 | 118.68
+ Marshall    | Thorn        |      23 | 117.77
+ Sam         | Mcduffie     |      24 | 117.76
+ Perry       | Swafford     |      24 | 117.76
+ Fernando    | Churchill    |      25 | 117.75
+ Marlene     | Welch        |      26 | 117.74
+ Velma       | Lucas        |      27 | 117.73
+ Betty       | White        |      28 | 117.72
+ Ellen       | Simpson      |      28 | 117.72
+ Ted         | Breaux       |      29 | 117.71
+ Todd        | Tan          |      29 | 117.71
+ Carolyn     | Perez        |      30 | 117.70
+ Terrence    | Gunderson    |      30 | 117.70
+ Kevin       | Schuler      |      22 | 116.78
+ Edwin       | Burk         |      23 | 116.77
+ Manuel      | Murrell      |      30 | 116.70
+ Theodore    | Culp         |      31 | 116.69
+ Kristin     | Johnston     |      31 | 116.69
+ Maxine      | Silva        |      32 | 116.68
+ David       | Royal        |      26 | 115.74
+ Cecil       | Vines        |      26 | 115.74
+ Jean        | Bell         |      27 | 115.73
+ Reginald    | Kinder       |      28 | 115.72
+ Becky       | Miles        |      29 | 115.71
+ Deborah     | Walker       |      29 | 115.71
+ Herman      | Devore       |      29 | 115.71
+ Marion      | Ocampo       |      29 | 115.71
+ Clyde       | Tobias       |      29 | 115.71
+ Marcus      | Hidalgo      |      30 | 115.70
+ Sharon      | Robinson     |      30 | 115.70
+ Heather     | Morris       |      30 | 115.70
+ Angel       | Barclay      |      32 | 115.68
+ Jesus       | Mccartney    |      24 | 114.76
+ Douglas     | Graf         |      25 | 114.75
+ Marie       | Turner       |      26 | 114.74
+ Dolores     | Wagner       |      26 | 114.74
+ Charlene    | Alvarez      |      27 | 114.73
+ Bill        | Gavin        |      28 | 114.72
+ Edward      | Baugh        |      28 | 114.72
+ Evelyn      | Morgan       |      28 | 114.72
+ Dennis      | Gilman       |      28 | 114.72
+ Holly       | Fox          |      31 | 114.69
+ Matthew     | Mahan        |      31 | 114.69
+ Laura       | Rodriguez    |      22 | 113.78
+ Andy        | Vanhorn      |      25 | 113.75
+ Shelly      | Watts        |      26 | 113.74
+ Glen        | Talbert      |      26 | 113.74
+ Rene        | Mcalister    |      26 | 113.74
+ Amber       | Dixon        |      27 | 113.73
+ Clifford    | Bowens       |      29 | 113.71
+ Cindy       | Fisher       |      29 | 113.71
+ Lois        | Butler       |      35 | 113.65
+ Brent       | Harkins      |      23 | 112.77
+ Tyrone      | Asher        |      24 | 112.76
+ Seth        | Hannon       |      25 | 112.75
+ Ashley      | Richardson   |      25 | 112.75
+ Larry       | Thrasher     |      26 | 112.74
+ Dale        | Ratcliff     |      27 | 112.73
+ Mario       | Cheatham     |      28 | 112.72
+ Mabel       | Holland      |      30 | 112.70
+ Geraldine   | Perkins      |      30 | 112.70
+ Calvin      | Martel       |      23 | 111.77
+ Claude      | Herzog       |      25 | 111.75
+ Gabriel     | Harder       |      26 | 111.74
+ Claudia     | Fuller       |      26 | 111.74
+ Daryl       | Larue        |      27 | 111.73
+ Victoria    | Gibson       |      27 | 111.73
+ Earl        | Shanks       |      27 | 111.73
+ Gina        | Williamson   |      28 | 111.72
+ Terrance    | Roush        |      29 | 111.71
+ Cynthia     | Young        |      32 | 111.68
+ Myrtle      | Fleming      |      24 | 110.76
+ Aaron       | Selby        |      24 | 110.76
+ Travis      | Estep        |      25 | 110.75
+ Georgia     | Jacobs       |      26 | 110.74
+ Yolanda     | Weaver       |      27 | 110.73
+ Amanda      | Carter       |      27 | 110.73
+ Randy       | Gaither      |      28 | 110.72
+ Ruby        | Washington   |      28 | 110.72
+ Everett     | Banda        |      28 | 110.72
+ Ken         | Prewitt      |      29 | 110.71
+ Juanita     | Mason        |      30 | 110.70
+ Kyle        | Spurlock     |      30 | 110.70
+ Hazel       | Warren       |      34 | 110.66
+ Dan         | Paine        |      22 | 109.78
+ Wallace     | Slone        |      25 | 109.75
+ Richard     | Mccrary      |      25 | 109.75
+ Leon        | Bostic       |      25 | 109.75
+ Gail        | Knight       |      25 | 109.75
+ Katie       | Elliott      |      25 | 109.75
+ Josephine   | Gomez        |      26 | 109.74
+ Dean        | Sauer        |      27 | 109.73
+ Andrew      | Purdy        |      27 | 109.73
+ Kristina    | Chambers     |      28 | 109.72
+ Julian      | Vest         |      28 | 109.72
+ Leonard     | Schofield    |      32 | 109.68
+ Frances     | Parker       |      22 | 108.78
+ Darren      | Windham      |      24 | 108.76
+ Vicki       | Fields       |      25 | 108.75
+ Sidney      | Burleson     |      25 | 108.75
+ Sergio      | Stanfield    |      26 | 108.74
+ Lucille     | Holmes       |      28 | 108.72
+ Carole      | Barnett      |      30 | 108.70
+ Marian      | Mendoza      |      23 | 107.77
+ Dora        | Medina       |      23 | 107.77
+ Max         | Pitt         |      24 | 107.76
+ Elaine      | Stevens      |      24 | 107.76
+ Kelly       | Knott        |      26 | 107.74
+ Edna        | West         |      26 | 107.74
+ Deanna      | Byrd         |      26 | 107.74
+ Virgil      | Wofford      |      27 | 107.73
+ Julie       | Sanchez      |      29 | 107.71
+ Jeff        | East         |      30 | 107.70
+ Tom         | Milner       |      32 | 107.68
+ Carlos      | Coughlin     |      23 | 106.77
+ Carl        | Artis        |      23 | 106.77
+ Peter       | Menard       |      23 | 106.77
+ Lisa        | Anderson     |      24 | 106.76
+ Lillian     | Griffin      |      25 | 106.75
+ Erin        | Dunn         |      27 | 106.73
+ Bobby       | Boudreau     |      35 | 106.65
+ Frederick   | Isbell       |      21 | 105.79
+ Brad        | Mccurdy      |      25 | 105.75
+ Danielle    | Daniels      |      25 | 105.75
+ Vincent     | Ralston      |      25 | 105.75
+ Thomas      | Grigsby      |      25 | 105.75
+ Diana       | Alexander    |      27 | 105.73
+ Jimmy       | Schrader     |      29 | 105.71
+ Stella      | Moreno       |      22 | 104.78
+ Rodney      | Moeller      |      23 | 104.77
+ Leo         | Ebert        |      23 | 104.77
+ Leah        | Curtis       |      25 | 104.75
+ Mark        | Rinehart     |      26 | 104.74
+ Brenda      | Wright       |      26 | 104.74
+ Francis     | Sikes        |      26 | 104.74
+ Clarence    | Gamez        |      30 | 104.70
+ Rose        | Howard       |      22 | 103.78
+ Ron         | Deluca       |      23 | 103.77
+ Bruce       | Schwarz      |      23 | 103.77
+ Pedro       | Chestnut     |      24 | 103.76
+ Beth        | Franklin     |      25 | 103.75
+ Gary        | Coy          |      25 | 103.75
+ Clinton     | Buford       |      25 | 103.75
+ Carla       | Gutierrez    |      26 | 103.74
+ Martin      | Bales        |      27 | 103.73
+ Jenny       | Castro       |      27 | 103.73
+ Denise      | Kelly        |      27 | 103.73
+ Nancy       | Thomas       |      28 | 103.72
+ Jeremy      | Hurtado      |      28 | 103.72
+ Robin       | Hayes        |      24 | 102.76
+ Micheal     | Forman       |      26 | 102.74
+ Adam        | Gooch        |      22 | 101.78
+ Dwayne      | Olvera       |      22 | 101.78
+ Corey       | Hauser       |      22 | 101.78
+ Willie      | Markham      |      25 | 101.75
+ Louise      | Jenkins      |      25 | 101.75
+ Bertha      | Ferguson     |      25 | 101.75
+ Jesse       | Schilling    |      26 | 101.74
+ Erika       | Pena         |      26 | 101.74
+ Phillip     | Holm         |      26 | 101.74
+ Willie      | Howell       |      26 | 101.74
+ Raul        | Fortier      |      20 | 100.80
+ Doris       | Reed         |      22 | 100.78
+ Connie      | Wallace      |      23 | 100.77
+ Shannon     | Freeman      |      24 | 100.76
+ Ronnie      | Ricketts     |      25 | 100.75
+ William     | Satterfield  |      26 | 100.74
+ Dustin      | Gillette     |      26 | 100.74
+ Jane        | Bennett      |      28 | 100.72
+ Lawrence    | Lawton       |      31 | 100.69
+ Judith      | Cox          |      33 | 100.67
+ Oscar       | Aquino       |      20 |  99.80
+ Ricardo     | Meador       |      21 |  99.79
+ Kelly       | Torres       |      22 |  99.78
+ Laurie      | Lawrence     |      23 |  99.77
+ Randall     | Neumann      |      23 |  99.77
+ Kurt        | Emmons       |      23 |  99.77
+ Albert      | Crouse       |      23 |  99.77
+ Chester     | Benner       |      24 |  99.76
+ Christine   | Roberts      |      24 |  99.76
+ Dorothy     | Taylor       |      25 |  99.75
+ Freddie     | Duggan       |      25 |  99.75
+ Ivan        | Cromwell     |      26 |  99.74
+ Ross        | Grey         |      27 |  99.73
+ Theresa     | Watson       |      30 |  99.70
+ Kay         | Caldwell     |      20 |  98.80
+ Donna       | Thompson     |      21 |  98.79
+ Francisco   | Skidmore     |      22 |  98.78
+ Cody        | Nolen        |      22 |  98.78
+ Stacy       | Cunningham   |      23 |  98.77
+ Agnes       | Bishop       |      23 |  98.77
+ Annette     | Olson        |      24 |  98.76
+ Mildred     | Bailey       |      25 |  98.75
+ Gwendolyn   | May          |      25 |  98.75
+ Elmer       | Noe          |      26 |  98.74
+ Pauline     | Henry        |      27 |  98.73
+ Daniel      | Cabral       |      20 |  97.80
+ Rafael      | Abney        |      21 |  97.79
+ Beverly     | Brooks       |      24 |  97.76
+ Carmen      | Owens        |      26 |  97.74
+ Melvin      | Ellington    |      26 |  97.74
+ Renee       | Lane         |      26 |  97.74
+ Gene        | Sanborn      |      27 |  97.73
+ Derek       | Blakely      |      28 |  97.72
+ Willard     | Lumpkin      |      22 |  96.78
+ Peggy       | Myers        |      24 |  96.76
+ Judy        | Gray         |      25 |  96.75
+ Jose        | Andrew       |      25 |  96.75
+ Clayton     | Barbee       |      26 |  96.74
+ Ian         | Still        |      27 |  96.73
+ Enrique     | Forsythe     |      28 |  96.72
+ Erica       | Matthews     |      22 |  95.78
+ Derrick     | Bourque      |      22 |  95.78
+ Shane       | Millard      |      22 |  95.78
+ Joel        | Francisco    |      23 |  95.77
+ Pamela      | Baker        |      23 |  95.77
+ Natalie     | Meyer        |      23 |  95.77
+ Toni        | Holt         |      23 |  95.77
+ Benjamin    | Varney       |      23 |  95.77
+ Constance   | Reid         |      25 |  95.75
+ Kimberly    | Lee          |      25 |  95.75
+ Edgar       | Rhoads       |      25 |  95.75
+ Esther      | Crawford     |      28 |  95.72
+ Lonnie      | Tirado       |      18 |  94.82
+ Nellie      | Garrett      |      21 |  94.79
+ Nicole      | Peterson     |      22 |  94.78
+ Emma        | Boyd         |      23 |  94.77
+ Suzanne     | Nichols      |      24 |  94.76
+ Scott       | Shelley      |      25 |  94.75
+ April       | Burns        |      26 |  94.74
+ Andrea      | Henderson    |      22 |  93.78
+ Harvey      | Guajardo     |      22 |  93.78
+ Loretta     | Carpenter    |      22 |  93.78
+ Glenn       | Pullen       |      23 |  93.77
+ Charlotte   | Hunter       |      24 |  93.76
+ Jackie      | Lynch        |      25 |  93.75
+ Tamara      | Nguyen       |      25 |  93.75
+ Howard      | Fortner      |      26 |  93.74
+ Jennifer    | Davis        |      28 |  93.72
+ Robert      | Baughman     |      21 |  92.79
+ Yvonne      | Watkins      |      21 |  92.79
+ Susan       | Wilson       |      24 |  92.76
+ Rita        | Graham       |      24 |  92.76
+ Melanie     | Armstrong    |      25 |  92.75
+ Megan       | Palmer       |      27 |  92.73
+ Allison     | Stanley      |      27 |  92.73
+ Kathleen    | Adams        |      27 |  92.73
+ Wilma       | Richards     |      20 |  91.80
+ Danny       | Isom         |      21 |  91.79
+ Anna        | Hill         |      21 |  91.79
+ Delores     | Hansen       |      21 |  91.79
+ Timothy     | Bunn         |      22 |  91.78
+ Carol       | Garcia       |      22 |  91.78
+ Phyllis     | Foster       |      23 |  91.77
+ Sean        | Douglass     |      23 |  91.77
+ Emily       | Diaz         |      24 |  91.76
+ Victor      | Barkley      |      24 |  91.76
+ Bob         | Pfeiffer     |      24 |  91.76
+ Ricky       | Shelby       |      25 |  91.75
+ Darrell     | Power        |      25 |  91.75
+ Jessie      | Banks        |      26 |  91.74
+ Lucy        | Wheeler      |      26 |  91.74
+ Wendy       | Harrison     |      30 |  91.70
+ Hugh        | Waldrop      |      21 |  90.79
+ Mathew      | Bolin        |      22 |  90.78
+ Vivian      | Ruiz         |      23 |  90.77
+ Jeffrey     | Spear        |      23 |  90.77
+ Julio       | Noland       |      21 |  89.79
+ Ruben       | Geary        |      21 |  89.79
+ Leslie      | Gordon       |      22 |  89.78
+ Lillie      | Kim          |      23 |  89.77
+ Margaret    | Moore        |      23 |  89.77
+ Donald      | Mahon        |      23 |  89.77
+ Rebecca     | Scott        |      24 |  89.76
+ Jack        | Foust        |      24 |  89.76
+ Ernest      | Stepp        |      25 |  89.75
+ Chad        | Carbone      |      25 |  89.75
+ Keith       | Rico         |      26 |  89.74
+ Jay         | Robb         |      26 |  89.74
+ Vernon      | Chapa        |      18 |  88.82
+ Tara        | Ryan         |      20 |  88.80
+ Tyler       | Wren         |      21 |  88.79
+ Bernard     | Colby        |      22 |  88.78
+ Christian   | Jung         |      24 |  88.76
+ Fred        | Wheat        |      25 |  88.75
+ Billie      | Horton       |      26 |  88.74
+ Kristen     | Chavez       |      18 |  87.82
+ Jared       | Ely          |      19 |  87.81
+ Maureen     | Little       |      21 |  87.79
+ Bonnie      | Hughes       |      21 |  87.79
+ Anne        | Powell       |      23 |  87.77
+ Jon         | Wiles        |      24 |  87.76
+ Colleen     | Burton       |      24 |  87.76
+ Vanessa     | Sims         |      19 |  86.81
+ Lewis       | Lyman        |      19 |  86.81
+ Lorraine    | Stephens     |      21 |  86.79
+ Felicia     | Sutton       |      28 |  86.72
+ Alfredo     | Mcadams      |      20 |  85.80
+ Allen       | Butterfield  |      21 |  85.79
+ Kenneth     | Gooden       |      17 |  84.83
+ Chris       | Brothers     |      22 |  84.78
+ Rachel      | Barnes       |      22 |  84.78
+ Joan        | Cooper       |      23 |  84.77
+ Roberta     | Harper       |      23 |  84.77
+ Eva         | Ramos        |      18 |  83.82
+ Austin      | Cintron      |      19 |  83.81
+ Armando     | Gruber       |      21 |  83.79
+ Alicia      | Mills        |      21 |  83.79
+ Wade        | Delvalle     |      22 |  83.78
+ Kim         | Cruz         |      21 |  82.79
+ Lance       | Pemberton    |      22 |  82.78
+ Lydia       | Burke        |      24 |  82.76
+ Barbara     | Jones        |      22 |  81.78
+ Cory        | Meehan       |      24 |  81.76
+ Melinda     | Fernandez    |      17 |  80.83
+ Christina   | Ramirez      |      18 |  80.82
+ Eileen      | Carr         |      18 |  80.82
+ Samuel      | Marlow       |      21 |  80.79
+ Roland      | South        |      23 |  80.77
+ Bobbie      | Craig        |      24 |  80.76
+ Norman      | Currier      |      26 |  80.74
+ Allan       | Cornish      |      19 |  79.81
+ Luis        | Yanez        |      20 |  79.80
+ Jacob       | Lance        |      21 |  79.79
+ Norma       | Gonzales     |      21 |  79.79
+ Ray         | Houle        |      22 |  79.78
+ Antonio     | Meek         |      16 |  78.84
+ Herbert     | Kruger       |      20 |  78.80
+ Gregory     | Mauldin      |      23 |  78.77
+ Paula       | Bryant       |      18 |  77.82
+ Nelson      | Christenson  |      20 |  77.80
+ Irene       | Price        |      23 |  77.77
+ Ann         | Evans        |      17 |  76.83
+ Pearl       | Garza        |      22 |  76.78
+ Darryl      | Ashcraft     |      23 |  76.77
+ Ida         | Andrews      |      23 |  76.77
+ Marvin      | Yee          |      21 |  75.79
+ Dwight      | Lombardi     |      17 |  74.83
+ Adrian      | Clary        |      19 |  74.81
+ Jeanette    | Greene       |      20 |  74.80
+ Franklin    | Troutman     |      22 |  74.78
+ Tony        | Carranza     |      22 |  74.78
+ Jerome      | Kenyon       |      16 |  73.84
+ Henry       | Billingsley  |      18 |  73.82
+ Sheila      | Wells        |      18 |  73.82
+ Jo          | Fowler       |      20 |  73.80
+ Juan        | Fraley       |      23 |  73.77
+ Felix       | Gaffney      |      24 |  73.76
+ Jonathan    | Scarborough  |      18 |  72.82
+ Terry       | Grissom      |      20 |  72.80
+ Edith       | Mcdonald     |      19 |  71.81
+ Eugene      | Culpepper    |      19 |  71.81
+ Lauren      | Hudson       |      20 |  71.80
+ Anthony     | Schwab       |      20 |  71.80
+ Samantha    | Duncan       |      23 |  71.77
+ Irma        | Pearson      |      18 |  70.82
+ Wayne       | Truong       |      19 |  70.81
+ Floyd       | Gandy        |      17 |  69.83
+ Penny       | Neal         |      18 |  68.82
+ Jill        | Hawkins      |      21 |  68.79
+ Vera        | Mccoy        |      18 |  67.82
+ Joann       | Gardner      |      16 |  66.84
+ Lloyd       | Dowd         |      19 |  66.81
+ Alberto     | Henning      |      21 |  66.79
+ Lester      | Kraus        |      16 |  65.84
+ Kirk        | Stclair      |      19 |  64.81
+ Mattie      | Hoffman      |      22 |  64.78
+ Anita       | Morales      |      15 |  62.85
+ Tiffany     | Jordan       |      14 |  59.86
+ Katherine   | Rivera       |      14 |  58.86
+ Annie       | Russell      |      18 |  58.82
+ Johnny      | Turpin       |      19 |  57.81
+ Brian       | Wyman        |      12 |  52.88
+ Leona       | Obrien       |      14 |  50.86
+ Caroline    | Bowman       |      15 |  50.85
 (598 rows)
 

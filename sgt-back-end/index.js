@@ -116,7 +116,7 @@ app.delete('/api/grades/:id', (req, res) => {
         res.status(404).json({ Error: `Cannot find matching id of ${id}.` });
         return;
       }
-      res.status(204).json({ Success: 'DELETED' });
+      res.status(204).json();
     })
     .catch(err => {
       console.error(err);

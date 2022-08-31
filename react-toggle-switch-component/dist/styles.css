@@ -9,39 +9,34 @@ p {
 }
 
 .background-on {
-  position: relative;
-  display: inline-block;
-  width: 60px;
-  height: 34px;
   background-color: green;
-  border-radius: 34px;
 }
 
 .background-off {
+  background-color: grey;
+}
+
+.slider-container {
   position: relative;
   display: inline-block;
   width: 60px;
   height: 34px;
-  background-color: grey;
   border-radius: 34px;
 }
 
-.on {
+.slider {
   position: relative;
   height: 32px;
   width: 60%;
   border-radius: 50%;
   border: 1px solid black;
   background-color: white;
+}
+
+.on {
   left: 1.6rem;
 }
 
 .off {
-  position: relative;
-  height: 32px;
-  width: 60%;
-  border-radius: 50%;
-  border: 1px solid black;
-  background-color: white;
   right: 0;
 }

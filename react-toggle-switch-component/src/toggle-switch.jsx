@@ -15,16 +15,16 @@ export default class ToggleSwitch extends React.Component {
     if (this.state.isOn === false) {
       return (
       <div onClick={this.handleClick} className='flex-container'>
-        <div className='background-off'>
-          <div className='off'></div>
+        <div className='slider-container background-off'>
+          <div className='slider off'></div>
         </div>
         <p>OFF</p>
       </div>);
     } else if (this.state.isOn === true) {
       return (
       <div onClick={this.handleClick} className='flex-container'>
-        <div className='background-on'>
-          <div className='on'></div>
+        <div className='slider-container background-on'>
+          <div className='slider on'></div>
         </div>
         <p>ON</p>
     </div>);

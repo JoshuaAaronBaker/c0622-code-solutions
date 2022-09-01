@@ -28,11 +28,13 @@ export default class Stopwatch extends React.Component {
   }
 
   reset() {
-    this.setState({
-      time: 0,
-      button: true,
-      interval: null
-    });
+    if (this.state.button === true) {
+      this.setState({
+        time: 0,
+        button: true,
+        interval: null
+      });
+    }
   }
 
   render() {

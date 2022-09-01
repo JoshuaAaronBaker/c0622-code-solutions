@@ -29,7 +29,7 @@ class RegistrationForm extends React.Component {
 
   render() {
     return (
-      <form>
+      <form onSubmit={this.handleSubmit}>
         <label htmlFor="username">Username:</label>
         <input value={this.state.username} onChange={this.handleUsernameChange} type="text" id='username'/>
         <label htmlFor="password">Password:</label>

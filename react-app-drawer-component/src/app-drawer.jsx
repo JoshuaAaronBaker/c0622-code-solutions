@@ -38,7 +38,7 @@ export default class AppDrawer extends React.Component {
               His lifelong dream is to become the Pirate King by finding the legendary treasure left behind by the late Gol D. Roger.
               He believes that being the Pirate King means having the most freedom in the world.</p>
           </div>
-          <img className='poster' src="../src/images/luffy.webp" alt="" />
+          <img onClick={this.hide} className='poster' src="../src/images/luffy.webp" alt="" />
         </div>
         <div className='flex-container'>
           <div>
@@ -48,7 +48,7 @@ export default class AppDrawer extends React.Component {
               His dream is to become the greatest swordsman in the world,
               in order to honor a promise he made to his deceased childhood friend Kuina.</p>
           </div>
-          <img className='poster' src="../src/images/zoro.webp" alt="" />
+          <img onClick={this.hide} className='poster' src="../src/images/zoro.webp" alt="" />
         </div>
         <div className='flex-container'>
           <div>
@@ -59,7 +59,7 @@ export default class AppDrawer extends React.Component {
               Her dream is to make a map of the entire world.
             </p>
           </div>
-          <img className='poster' src="../src/images/nami.webp" alt="" />
+          <img onClick={this.hide} className='poster' src="../src/images/nami.webp" alt="" />
         </div>
         <div className='flex-container'>
           <div>
@@ -67,7 +67,7 @@ export default class AppDrawer extends React.Component {
             <p>After working with the Straw Hats to defeat Kuro and the Black Cat Pirates, he was invited to join the crew.
               Despite his usual cowardice, Usopp dreams of becoming a brave warrior of the sea just like his father and lives every day in pursuit of living up to this dream.</p>
           </div>
-          <img className='poster' src="../src/images/usopp.webp" alt="" />
+          <img onClick={this.hide} className='poster' src="../src/images/usopp.webp" alt="" />
         </div>
         <div className='flex-container'>
           <div>
@@ -76,7 +76,7 @@ export default class AppDrawer extends React.Component {
                After fleeing the Vinsmokes as a child, he eventually entered the care of Zeff as the sous chef of the Baratie,
                where he would remain until he met Monkey D. Luffy, who convinced him to join his crew.</p>
           </div>
-          <img className='poster' src="../src/images/sanji.webp" alt="" />
+          <img onClick={this.hide} className='poster' src="../src/images/sanji.webp" alt="" />
         </div>
         <div className='flex-container'>
           <div>
@@ -85,7 +85,7 @@ export default class AppDrawer extends React.Component {
               He came from Drum Island and was taught how to be a doctor by his two parental figures, Doctors Hiriluk and Kureha.
               His dream is to one day become a doctor capable of curing any disease and wants to travel all across the world specifically in the hopes of accomplishing this dream.</p>
           </div>
-          <img className='poster' src="../src/images/chopper.webp" alt="" />
+          <img onClick={this.hide} className='poster' src="../src/images/chopper.webp" alt="" />
         </div>
         <div className='flex-container'>
           <div>
@@ -95,7 +95,7 @@ export default class AppDrawer extends React.Component {
             As the sole survivor of the destroyed West Blue island Ohara, she is currently one of only two people in the world known to have the ability to read and decipher Poneglyphs,
             a skill which is considered forbidden and threatening to the World Government.</p>
           </div>
-          <img className='poster' src="../src/images/nicorobin.webp" alt="" />
+          <img onClick={this.hide} className='poster' src="../src/images/nicorobin.webp" alt="" />
         </div>
         <div className='flex-container'>
           <div>
@@ -105,7 +105,7 @@ export default class AppDrawer extends React.Component {
               until an incident resulted in his body being heavily damaged and requiring him to augment himself into a cyborg.
               Upon returning to Water 7, he became the leader of the Franky Family, a group of ship dismantlers and bounty hunters.</p>
           </div>
-          <img className='poster' src="../src/images/franky.webp" alt="" />
+          <img onClick={this.hide} className='poster' src="../src/images/franky.webp" alt="" />
         </div>
         <div className='flex-container'>
           <div>
@@ -113,7 +113,7 @@ export default class AppDrawer extends React.Component {
             <p>Brook ate the Yomi Yomi no Mi, which allowed him to return to life after death once.
               Brook eventually learned to tap deeper into the powers of his Devil Fruit, giving him significant control over his own soul and the souls of others.</p>
           </div>
-          <img className='poster' src="../src/images/brook.webp" alt="" />
+          <img onClick={this.hide} className='poster' src="../src/images/brook.webp" alt="" />
         </div>
         </nav>
       </div>

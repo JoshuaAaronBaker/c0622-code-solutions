@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: auto;
+}
+
+label {
+  display: block;
+}
+
+i {
+  font-size: 30px;
+  padding-left: 10px;
+}
+
+span {
+  position: relative;
+  top: 5px;
+}
+
+.error {
+  color: red;
+}
+
+.fa-xmark {
+  color: red;
+}
+
+.fa-check {
+  color: green;
+}

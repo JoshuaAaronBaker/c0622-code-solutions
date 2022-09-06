@@ -1,0 +1,21 @@
+PATCH /api/todos/5 HTTP/1.1
+User-Agent: HTTPie/2.6.0
+Accept-Encoding: gzip, deflate
+Accept: application/json, */*;q=0.5
+Connection: keep-alive
+Content-Type: application/json
+Content-Length: 21
+Host: localhost:3000
+
+{"isCompleted": true}
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 149
+ETag: W/"95-bA5ySuE9dNw7J2EZ4EMlckboGzo"
+Date: Tue, 06 Sep 2022 06:53:22 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"todoId":5,"task":"Finish Fetch In React Practice","isCompleted":true,"createdAt":"2022-09-06T06:52:34.298Z","updatedAt":"2022-09-06T06:53:22.137Z"}

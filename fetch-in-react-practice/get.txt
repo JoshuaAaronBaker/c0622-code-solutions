@@ -1,0 +1,19 @@
+GET /api/todos HTTP/1.1
+User-Agent: HTTPie/2.6.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Host: localhost:3000
+
+
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 531
+ETag: W/"213-7PRU6EcxuD8gfP3dXyAc/Ch6Z0I"
+Date: Tue, 06 Sep 2022 06:50:16 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+[{"todoId":1,"task":"Learn to code","isCompleted":false,"createdAt":"2022-09-06T03:29:33.963Z","updatedAt":"2022-09-06T03:29:33.963Z"},{"todoId":2,"task":"Build projects","isCompleted":false,"createdAt":"2022-09-06T03:29:33.963Z","updatedAt":"2022-09-06T03:29:33.963Z"},{"todoId":3,"task":"Get a job","isCompleted":false,"createdAt":"2022-09-06T03:29:33.963Z","updatedAt":"2022-09-06T03:29:33.963Z"},{"todoId":4,"task":"lsdoadkoajf","isCompleted":true,"createdAt":"2022-09-06T03:48:13.141Z","updatedAt":"2022-09-06T03:49:56.034Z"}]

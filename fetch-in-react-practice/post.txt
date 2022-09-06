@@ -1,0 +1,21 @@
+POST /api/todos HTTP/1.1
+User-Agent: HTTPie/2.6.0
+Accept-Encoding: gzip, deflate
+Accept: application/json, */*;q=0.5
+Connection: keep-alive
+Content-Type: application/json
+Content-Length: 64
+Host: localhost:3000
+
+{"task": "Finish Fetch In React Practice", "isCompleted": false}
+
+HTTP/1.1 201 Created
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 150
+ETag: W/"96-rIonQ9gK8oWhykcfCao83MqZr+w"
+Date: Tue, 06 Sep 2022 06:52:34 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"todoId":5,"task":"Finish Fetch In React Practice","isCompleted":false,"createdAt":"2022-09-06T06:52:34.298Z","updatedAt":"2022-09-06T06:52:34.298Z"}

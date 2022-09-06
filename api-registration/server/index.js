@@ -36,13 +36,15 @@ app.post('/api/auth/sign-up', (req, res, next) => {
       const params = [username, hashedPassword];
       db.query(sql, params)
         .then(result => {
-          const re = result.rows;
-          res.status(201).json(re);
+          const [newUser] = result.rows;
+          res.status(201).json(newUser);
         })
         .catch(err => next(err));
-    });
+    })
+    .catch(err => next(err));
+});
 
-  /**
+/**
    * Hash the user's password with `argon2.hash()`
    * Then, 😉
    *   Insert the user's "username" and "hashedPassword" into the "users" table.
@@ -53,8 +55,6 @@ app.post('/api/auth/sign-up', (req, res, next) => {
    *
    * Hint: Insert statements can include a `returning` clause to retrieve the insterted row(s).
    */
-
-});
 
 app.use(errorMiddleware);
 

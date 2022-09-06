@@ -1,0 +1,21 @@
+PUT /api/grades/4 HTTP/1.1
+User-Agent: HTTPie/2.6.0
+Accept-Encoding: gzip, deflate
+Accept: application/json, */*;q=0.5
+Connection: keep-alive
+Content-Type: application/json
+Content-Length: 56
+Host: localhost:3000
+
+{"course": "react", "name": "Josh Baker", "score": "25"}
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 100
+ETag: W/"64-PKvnjuDSa8C//1fTGnydVeiSthM"
+Date: Tue, 06 Sep 2022 19:04:29 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"gradeId":4,"name":"Josh Baker","course":"react","score":25,"createdAt":"2022-09-06T18:31:44.213Z"}

@@ -1,0 +1,21 @@
+POST /api/auth/sign-in HTTP/1.1
+User-Agent: HTTPie/2.6.0
+Accept-Encoding: gzip, deflate
+Accept: application/json, */*;q=0.5
+Connection: keep-alive
+Content-Type: application/json
+Content-Length: 51
+Host: localhost:3000
+
+{"username": "autodidact", "password": "password1"}
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 208
+ETag: W/"d0-Cc/X9n1paTMTWZzWLkjzdFxpa0w"
+Date: Wed, 07 Sep 2022 18:27:17 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsInVzZXJuYW1lIjoiYXV0b2RpZGFjdCIsImlhdCI6MTY2MjU3NTIzN30.dSi0fYeKJ5mWV_sh6NVzB2V_-0co8UGBX8JpICam0vk","user":{"userId":1,"username":"autodidact"}}

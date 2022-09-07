@@ -1,0 +1,21 @@
+POST /api/auth/sign-up HTTP/1.1
+User-Agent: HTTPie/2.6.0
+Accept-Encoding: gzip, deflate
+Accept: application/json, */*;q=0.5
+Connection: keep-alive
+Content-Type: application/json
+Content-Length: 47
+Host: localhost:3000
+
+{"password": "password4", "username": "admin4"}
+
+HTTP/1.1 201 Created
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 199
+ETag: W/"c7-bZ7F3rQ5nYjYZGhqszNxrxQOmiw"
+Date: Tue, 06 Sep 2022 22:17:24 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"username":{"userId":5,"username":"admin4","hashedPassword":"$argon2i$v=19$m=4096,t=3,p=1$xVOUbYAYDCaBNwMTor3cXg$lRI6km+C4B5Ljd7diQCnFgfvgsXXLB/otGzbf9ojPE0","createdAt":"2022-09-06T22:17:24.309Z"}}

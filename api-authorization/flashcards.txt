@@ -1,0 +1,20 @@
+GET /api/flashcards HTTP/1.1
+User-Agent: HTTPie/2.6.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+X-Access-Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInVzZXJuYW1lIjoiam9zaCIsImlhdCI6MTY2MjU3NzI5MH0.gETwl9zmsgAv_HdTukMPFmXgQg_t0puD7eqR5_yToEU
+Host: localhost:3000
+
+
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 175
+ETag: W/"af-bsHchQ7GBxziRcB1gv3MMohB3tM"
+Date: Wed, 07 Sep 2022 19:04:27 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+[{"flashcardId":5,"userId":2,"question":"dfiahfihasfo","answer":"dfkjuashfioahfio"},{"flashcardId":6,"userId":2,"question":"dfiahfgfoisdjafj30","answer":"457928347238794823"}]

@@ -1,0 +1,87 @@
+
+When the page is opened we are placed on a sing-in page. This means we are starting in the app.jsx file, which will be used as the main source.
+The constructor function within our App class body runs and our initial states are defined. User is set to null, isAuthorizing is set to the boolean value true,
+and route is set to a parsed has location.
+
+Now the render method runs. First this.state.isAuthorizing is evaluated, if it's value is true then we will return null (which would show an empty page), this also will prevent all elements from laoding.
+After this the componentDidMount method is triggered as we have completed our first render of the page. A 'hashchange' event listener is added to the window object.
+A JSON web token is being assigned to a token varible. We also have a conditonal assigned where user would be assigned the value of token if it is a token else it will
+be assigned the value of null. Lastly we have the setState method being called where the state isAuthorizing is being set to false. This also triggers a re-render.
+Due to the re-render, the render method will run again and this time, the condition is not met since isAuthorizing is now false. The user and route properties of from state
+are being destructured and assigned to new variables named user and route. The handleSignIn and handleSignOut properies are being destructured from this object and then being
+assigned to new variables named handleSignIn and handleSignOut. We then have a contextValue vairable which gets an object assgined to it that has user, route, handleSignIn, and handleSignOut properties
+and their corresponsing values with the same names. Now the rendering of the react elements on your page starts. The return of our render method is a React element of type AppContext.Provider with a value prop
+that contains the contextValue. One of the children of the AppContext.Provider element is the Navbar react element, and so the creation of said element was called. Due to this we will be directed to the navbar.jsx
+file from the components dir.
+
+In navbar.jsx we have the standard importing of React from the react packages. We also have our AppContext being imported from the app-context.js file located in the lib dir.
+The render method of the Navbar class runs. The return will be the creation for the navbar; with the the sign out button appearing if the user variable is not null, and the sign in and sign out buttons appearing if the value of user is null.
+So dependent on if there is or isnt a user yet.
+
+Now back to the render method in our app.jsx file. THe next React element is our PageContainer element and the creation for it was called so we will now move page-container.jsx file. Inside the page-container.jsx file
+the standard importing of React from the react packages occurs and then we have a styles object with a property that will determine the minHeight for our container. Now the PageContainer function runs and it returns the
+creation tree for the page container, a light background with the min height previously mentioned.
+
+Once again we return to the app.jsx file. As a child of the PageContainer react element we have a JavaScript expression which calls then renderPage method of the App class. We jump up to the renderPage method now and the route which we defined
+when we created the state object is assigned to a property named path within an object. Depedning on the value of the path, we have conditions set to return differnt react elements. At the moment it is an empty string, so the renderPage method will
+return a react element type Home. With this return the creation of the element tree for Home is being called so we will now move to the Home.jsx file within the pages dir.
+
+Inside the home.jsx file we import react from the react packages, redirect from the redirect.jsx file within the components dir, and AppContext from the app-context.js file inside the lib dir. Theres some styling defined for the page. The render function of
+the Home class runs. There is a condition that checks whether or not there is a user, which at this point we dont have yet so the return of our condition calls the Redirect react element while also setting the to prop to "sign-in". We are now shot over to
+the redirect.jsx file. Now the Redirect function runs, it sets url to our current location. It then checks the to property of props to see if it is empty string, but for us the to property was set to 'sign-in' within home.jsx so the hash property of url gets set to props.to
+which is now 'sign-in'. Our location is changed to window.location.sign-in. This triggers the hashchange event listener within our componentDidMount and so we will begin a re-render due to setState being envoked to change the route state to sign-in.
+Our render will now proceed as described earlier except when we reach the call of the renderPage method within the PageContainer react element, the condition that took us to home.jsx is not fulfilled and we instead fulfill the second condition which takes us to auth.jsx because
+path is now set to 'sign-in'.
+
+------------------------------------------------------------------------------- Sign-Up --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Now that we are in auth.jsx, we have the imports of react from packages and Redirect, AuthForm, and AppContext from their corresponsing file locations. The render method within the AuthPage class runs and creates the Sign-in page. In order to initiate the sign-up process the user will
+click the sign-up button on the nav bar. When they do that it will trigger a hashchange, due to this hashchange the callback function within the hashchange event listener will run and initiate a re-render because of the setState method being called. The re-render will repeat all the processes
+discussed previously but when we reach the call to create the Auth component within the renderPage method our path is set to 'sign-up'. There is a check for if we have a user, which we do not, so that is skipped. Next the welcome message is determined by the value of path. For us path is currently
+'sign-up', so our welcome message will be "Create an account...", and now we get into the the rendering of the elements on the page. The render method runs and we reach a call for the creation of the AuthForm component which has some props key and action with are given the value of the current path
+and an onSignIn prop that has the value of the handleSignIn method. Now we will move to the AuthForm.jsx file.
+
+Again we have imports of React and AppContext from their respective locations. The constructor function within the AuthForm class runs. Super is called, and our state start to be defined. Username and Password are given the value of empty strings. The handleChange and handleSubmit methods also get bound
+in order to guarantee the definition of this when those methods are called. Now the render method runs, the action property get destructured from this.props, and the handleChange and handleSubmit properties get destructured from this.props. There are some conditions to fulfill, our current value is sign-up,
+so the condtions are all fulfilled. A form gets returned with username and password inputs both of which have onChange props that trigger the handleChange method. The user will start typing into the input fields, which as discussed before will trigger the handleChange method. Within this method there is a setState
+method call which will set the name and password properties within state to whatever is typed in the field's that have the corresponding name prop. Beacuse the setState method was called there is a re-render on each key press the user does within the fields. When the user is done filling out our form the username and
+password properties within our state should be holding the value of whatever they typed in each field. The user will now press the submit button in order to submit our form, the button should say sign-up at this point due to prior conditons being fulfilled. This will trigger handleSubmit method witch was assigned to
+the onSubmit prop of our react element type form. So we jump up to the handleSubmit method, preventDefault is called to prevent a page refresh. The action property is destructured from this.props. The body for the request is defined and assigned to a variable. Now the fetch function gets called and passes our username
+and password properties within the POST request that we are sending. Since we used fetch and sent a POST request, we will move over to our index.js file.
+
+Okay we are inside index.js due to calling fetch and initiating a post request. The post method executes, we pass it the values of username and password which we attained when the user submit the form. There is a condition that checks if we supplied a username and password, we did so there will be no error thrown. Now
+argon2 package will be envoked. The password we passed gets hashed up and encrypted, then our new hashed password gets stored in our database. The client will also receive a successful status code and a response body showing username and the hashedPassword. Now we will go back over to auth-form.jsx. A then method is called on
+the return of our fetch function, it gets pasred into json and then it is checked by a condition. For use action was indeed sign-up as we saw in the post method inside index.js; with this being the case we fulfill the condition and so we have our window.location.hash set to 'sign-in' which will trigger the hashchange
+event listerner within componentDidMount inside app.jsx, and this will once again start a re-render for the same reasons discussed earlier. We go through the render process and we once again reach the call of the renderPage method. The method runs, our path is now 'sign-in', so we go to Auth.jsx. We still dont have a
+user yet so the first condition is skipped. The render method runs and we reach a call to create the AuthForm element, so we jump over to auth-form.jsx. The sign-in page is created with the appropriate content. Now the sign-up process has completed and we can move on to sign-n.
+
+------------------------------------------------------------------------------- Sign-In ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Now that we are on the Sign-In page, the user can start typing into the input fields just as they did for the sign-in fields. All those actions will trigger the same kind of re-rendering due to the onChange eventlisteners etc. The process is near identical to the one mentioned above for sign-up. The user will type into
+the input fields and when they are finished there will be username and password stored in their respective properties within the this.state object. Now with all fields filled out and the user's log-in information stored in our state we are ready for the form to be submitted. The user will now click the submit button which
+will trigger the onSubmit event listener on the form which will then call the handleSubmit method. The handleSubmit runs, preventDefault method is called. Acttion gets destructured from this.props. Fetch function is called with a POST request, which will now once again send us on over to the index.js file.
+
+Now in index.js we look at the post method on the path for 'sign-in'. The username and password stored in this.state in the auth-form included in the body of the post request will be destructured from the req.body and assigned to variables of the same names. A condition checks if we've gotten username or password. We did
+so there is no error thrown. There is some sql code specifying that we get the userId and hashedPassword associated with the user. We query the database for the afformentioned things, we then check to see if those match. If they didnt an error will be thrown. For us it will so we continue through this method, userId and
+hashedPassword get destructured from user. Argon2 package then gets returned and we go into a promise chain, where first password submitted gets verified against the hashedPassword from the DB. If these dont match an error will be thrown to the client, if they do match then a payload will be made that contains the userId
+and username. A token is then created using the sign method of the jwt object with our payload and TOKEN_SECRET from the .env file in order to show that we certify this came from our databse and we approve. All of this data then gets parsed into json and sent off back to the client. Now we come back to auth-form.jsx. We
+have the return of the fetch function call now and so we will go through the promise chain starting with a then method. The response gets parsed into json. Another then method then checks if action is sign-up but for us now the value is sign-in so we keep going. There is a conditon that check if the user and token properties
+of the result object are truthy, which they are so the onSignIn method is called with the value of our result passed in. Due to this method call we will head back over to app.jsx.
+
+In app.jsx we go into the handleSignIn method. User and token get destructured from result object and then assgined to variables of the same name. The token is then saved into local storage by our browser. Now the setState method is called, which will set the value of the property user to the value of user that we destructured
+from the result object. Due to setState being called a re-render is triggered. Everything will proceed as discussed earlier on during one of the many re-render explanations except now when the renderPage method is called, the path will be set to an empty string. With path being an empty string, the first condition is now fulfilled
+and we will be sent over to the home.jsx file because the returns calls for the creation of that component.
+
+Now we are back in home.jsx, we will not fulfill the conditon that checks if the value of user provided by context is falsey which this time it is not so no redirect. We can now get into the return of the render method that will create the element tree for the home page. We get a beatifully styled page of Rick Astley just constantly
+RICK ROLLING us.
+
+------------------------------------------------------------------------------- Stay Signed-In ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This one is quite simple. If the user was signed in and decided to leave the page because they were ashamed of being Rick Rolled. If they choose to come back to this page, when the constructor function runs and all the page rendering gets done we will get to componentDidMount inside app.jsx and here we will grab the jwt token
+inside local storage which is there because the user was signed-in previosuly. This time we have a token so user wll not be set to null it will be the value of the token after it is decoded. Now the setState will be called setting user to the value of user and isAuthorizing to false. SetState triggers a re-render and now since
+user has a value we will load into the Home page.
+
+------------------------------------------------------------------------------- Sign-Out -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Now because user is not null anymore the button in our navbar that gets rendered is the Sign Out one. This button has an onClick prop that will call the handleSignOut method inside app.jsx, user clicks this button. Now we go back to our old friend app.jsx and head over to the handleSignOut method. Here inside the method we have the
+removal of the jwt token from local storage and the call of the setState method where the user property is set back to null, as we are now signing out of our app. SetState is called thus triggering a re-render but with the value of users in state set to null. What happens when user is null, was covered in lines 2-34 the only differnece
+being that isAuthorizing will now be false so there will be no prevention of elements loading to the page, we will just be thrown back to a sign-in page.
+
+Thank you for coming to my TED Talk I hope it was accurate.

@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1000;
+  margin: auto;
+}
+
+.row {
+  display: flex;
+}
+
+.column-full {
+  flex-basis: 100%;
+}
+
+.flex-column {
+  display: flex;
+}
+
+.center-page {
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.border {
+  border: 5px solid black;
+}
+
+.circle-margin {
+  margin: 10px;
+}
+
+.space-evenly {
+  justify-content: space-evenly;
+}
+
+.arrow {
+  font-size: 50px;
+  cursor: pointer;
+}
+
+.icon-wrapper {
+  cursor: pointer;
+}
